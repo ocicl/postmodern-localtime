@@ -2,9 +2,9 @@
 
 Add local-time handlers for postmodern
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/radisb/postmodern-localtime.git   |
-| commit  | f032ca2  |
-| systems | postmodern-localtime |
-|---------+-------------------------------------------|
+|----------+--------------------------------------------------------|
+| deadlink | git:https://github.com/radisb/postmodern-localtime.git |
+| commit   | f032ca2                                                |
+| systems  | postmodern-localtime                                   |
+|----------+--------------------------------------------------------|
 
